@@ -5,6 +5,13 @@ Bump pyproject.toml dependency minimum versions to latest feasible versions.
 WARNING: this tool is provided as-is and doesn't come with warranty.
 Please make sure your code has been backed up and/or version controlled in case something goes wrong.
 
+## Support This Project
+
+If you find uv-bump helpful, please consider sponsoring the development:
+
+<a href="https://github.com/sponsors/Goldziher"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github-sponsors" alt="Sponsor on GitHub" height="32"></a>
+
+Your support helps maintain and improve this tool for the community! 🚀
 
 ## Howto
 
